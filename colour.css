@@ -1,0 +1,53 @@
+body{
+color:aquamarine;
+background-colour:black;
+front-family:Georgia,'Times New Roman',Times,serif;
+
+}
+/* p{
+    font-style: normal;
+    fornt-size:medium;
+    front-weightL:bold;
+} */
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 500px;
+}
+ol{
+    list-style-type:upper-roman;
+}
+ul{
+    list-style-type: disc;
+}
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+h1{
+    padding: :50px;
+    border:30px :solid red;
+    margin:50px;
+
+}
+button:hover{
+    background-colour:green;
+    border-radius: 10px;
+
+}
+nav{
+    display:flex;
+    flex-direction: column;
+    gap:200px;
+}
+#p1{
+    font-style:normal;
+    font-weight:bolder;
+    
+}
+#p2{
+    fort-style:italic;
+}
+.pclass{
+    font-size: x-large;
+}
